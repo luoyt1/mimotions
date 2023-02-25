@@ -1,8 +1,8 @@
-name: 刷步数2
+7name: 刷步数2
 
 on:
   schedule:
-    - cron: '15 12 * * *'
+    - cron: '15 8 * * *'
 
 jobs:
   build:
